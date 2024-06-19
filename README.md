@@ -3,3 +3,4 @@ new line added
 another one
 third line test7 branch
 added a new line
+new line
